@@ -1,0 +1,11 @@
+{
+  "name": "com.arletakit.cck",
+  "displayName": "Arleta Content Creator Kit",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "description": "Kit utk content creator.",
+  "author": {
+    "name": "Arleta Tech"
+  },
+  "license": "See LICENSE.md file"
+}
